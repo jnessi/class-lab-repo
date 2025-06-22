@@ -1,6 +1,6 @@
 ## Class Information
-- Name: [Your Name Here]  
-- Certification: [Your Certification Name Here]  
+- Name: [Josant]  
+- Certification: [Meta Android Developer Certificate]  
 
 ## Instructions
 Please replace the placeholders with your details:
